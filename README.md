@@ -1,14 +1,11 @@
 ## Description
 Chat REST API
 
-## Installation
-
-```bash
-$ yarn install
-```
-
 ## Running the app
 To start server in a docker container
+
+- copy .env.example file into a .env file in the root directory
+
 ```bash
 $ docker-compose build
 
